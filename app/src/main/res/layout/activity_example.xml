@@ -9,8 +9,6 @@
     <xhome.uestcfei.com.library.ViewPagerWithNet
         android:layout_width="match_parent"
         android:id="@+id/viewpager"
-        android:layout_height="match_parent">
-
-    </xhome.uestcfei.com.library.ViewPagerWithNet>
+        android:layout_height="match_parent"/>
 
 </RelativeLayout>
